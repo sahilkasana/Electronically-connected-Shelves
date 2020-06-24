@@ -1,0 +1,2 @@
+# Electronically-connected-Shelves
+You might have faced this situation in your lives that whenever you visit a store you cannot find a particular stuff there as it was not restocked timely but it is present in the ware house and ultimately it costs profit loss to the oraganization.Here,we have developed a system where the ware house manager gets the information about the real time availability of a particular product in a particular shelf.
